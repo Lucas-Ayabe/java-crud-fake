@@ -1,0 +1,11 @@
+{
+  "name": "crudzin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lucas Akira Ayabe <lucas.ayabe@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "prettier-plugin-java": "^1.5.0"
+  }
+}
